@@ -34,7 +34,7 @@ const initOptions = {
   series: [
     {
       mapData: {},
-      name: "Dân số",
+      name: "Population",
       joinBy: ["hc-key", "key"],
     },
   ],
